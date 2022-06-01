@@ -1,0 +1,27 @@
+body{
+    background-image: url("https://i.pinimg.com/564x/07/7b/d9/077bd998b24f0997c9f1f35531db1069.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#label1{
+    font-size: 30px;
+    background-color: #5A5F57 ;
+    color: white;
+    font-size: bold;
+    margin-top: 20px;
+    margin-left: 100px;
+    font-family:  cursive;
+}
+button{
+
+background-color: #C6916B ;
+color: white;
+font-size: bold;
+
+margin-left: 100px;
+font-family: 'Blaka', cursive;
+}
+canvas{
+    background-color: #C6916B;
+    margin-bottom: 100px;
+}
